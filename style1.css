@@ -1,0 +1,20 @@
+body{
+    background-image: url("https://i.ytimg.com/vi/szP_dqVXmh8/maxresdefault.jpg");
+}
+header {
+    text-align: center;
+    padding: 30px;
+    color: white;
+}
+header img{
+    height: 150px;
+    width: 150px;
+}
+section {
+    /* margin: 20px; */
+    text-align: center;
+}
+#class a{
+    margin: 0 10px;
+    color: white;
+}
